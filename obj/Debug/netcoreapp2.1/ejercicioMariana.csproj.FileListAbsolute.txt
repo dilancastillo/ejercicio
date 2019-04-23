@@ -1,0 +1,11 @@
+C:\Users\Ususario\source\repos\fechas\ConsoleApp1\bin\Debug\netcoreapp2.1\ejercicioMariana.deps.json
+C:\Users\Ususario\source\repos\fechas\ConsoleApp1\bin\Debug\netcoreapp2.1\ejercicioMariana.runtimeconfig.json
+C:\Users\Ususario\source\repos\fechas\ConsoleApp1\bin\Debug\netcoreapp2.1\ejercicioMariana.runtimeconfig.dev.json
+C:\Users\Ususario\source\repos\fechas\ConsoleApp1\bin\Debug\netcoreapp2.1\ejercicioMariana.dll
+C:\Users\Ususario\source\repos\fechas\ConsoleApp1\bin\Debug\netcoreapp2.1\ejercicioMariana.pdb
+C:\Users\Ususario\source\repos\fechas\ConsoleApp1\obj\Debug\netcoreapp2.1\ejercicioMariana.csprojAssemblyReference.cache
+C:\Users\Ususario\source\repos\fechas\ConsoleApp1\obj\Debug\netcoreapp2.1\ejercicioMariana.csproj.CoreCompileInputs.cache
+C:\Users\Ususario\source\repos\fechas\ConsoleApp1\obj\Debug\netcoreapp2.1\ejercicioMariana.AssemblyInfoInputs.cache
+C:\Users\Ususario\source\repos\fechas\ConsoleApp1\obj\Debug\netcoreapp2.1\ejercicioMariana.AssemblyInfo.cs
+C:\Users\Ususario\source\repos\fechas\ConsoleApp1\obj\Debug\netcoreapp2.1\ejercicioMariana.dll
+C:\Users\Ususario\source\repos\fechas\ConsoleApp1\obj\Debug\netcoreapp2.1\ejercicioMariana.pdb
